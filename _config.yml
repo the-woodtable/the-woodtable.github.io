@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Welcome to the place I put my projects."
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/the-woodtable"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "jenny.y.zhuo@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/the_woodtable"
