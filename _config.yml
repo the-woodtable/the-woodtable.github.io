@@ -63,7 +63,7 @@ author:
   bio    : "Welcome to the place I put my projects."
   links:
     - label: "Email"
-      icon: "fab fa-solid fa-envelope"
+      icon: "fas fa-envelope"
       url: "mailto:jenny.y.zhuo@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -73,6 +73,10 @@ author:
       url: "https://youtube.com/@the_woodtable"
 
 footer:
+  links:
+      - label: "Email"
+        icon: "fas fa-envelope"
+        url: "mailto:jenny.y.zhuo@gmail.com"
 
 defaults:
   # _posts
