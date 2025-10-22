@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Builds"
+    url: /builds/
+  - title: "Visual Art"
+    url: /visual_art/
+  - title: "CAD & 3D Modelling"
+    url: /3d_modelling/
+  - title: "Programming"
+    url: /programming
+  - title: "Video Editing"
+    url: /video_editing/
   - title: "About"
     url: /about/
