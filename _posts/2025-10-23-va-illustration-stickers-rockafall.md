@@ -26,8 +26,8 @@ gallery:
   - url: /assets/images/visual-art/rockafall/6 ufo.png
     image_path: /assets/images/visual-art/rockafall/6 ufo.png
     alt: "Rock in UFO sticker in 80s comic style"
-  - url: /assets/images/visual-art/rockafall/7 signal recieiver.png
-    image_path: /assets/images/visual-art/rockafall/7 signal recieiver.png
+  - url: /assets/images/visual-art/rockafall/7 signal receiver.png
+    image_path: /assets/images/visual-art/rockafall/7 signal receiver.png
     alt: "Signal recieiver sticker in 80s comic style"
   - url: /assets/images/visual-art/rockafall/8 logo new new.png
     image_path: /assets/images/visual-art/rockafall/8 logo new new.png
