@@ -57,20 +57,21 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Yueran (Jenny) Zhuo"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Welcome to the place I put my projects."
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:jenny.y.zhuo@gmail.com"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/the_woodtable"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/@the_woodtable"
+
+#author:
+  #name   : "Yueran (Jenny) Zhuo"
+  #avatar : "/assets/images/bio-photo.jpg"
+  #bio    : "Welcome to the place I put my projects."
+  #links:
+    #- label: "Email"
+      #icon: "fas fa-envelope"
+      #url: "mailto:jenny.y.zhuo@gmail.com"
+    #- label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
+      #url: "https://instagram.com/the_woodtable"
+    #- label: "Youtube"
+      #icon: "fab fa-fw fa-youtube"
+      #url: "https://youtube.com/@the_woodtable"
 
 footer:
   links:
