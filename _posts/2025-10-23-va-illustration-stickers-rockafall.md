@@ -1,14 +1,19 @@
 ---
 title: "Stickers Design - Rockafall Concert (SUTD Bands)"
-last_modified_at: 2025-09-21T16:20:02-05:00
+date: 2019-04-18T15:34:30-04:00
 categories:
-  - Blog
+  - blog
 tags:
   - Merch Design
   - Illustration
   - Visual Art
+gallery:
+  - url: /assets/images/visual-art/rockafall/1 comet.png
+    image_path: /assets/images/visual-art/rockafall/1 comet.png
+    alt: "Comet sticker in 90s comic style"
+  - url: /assets/images/visual-art/rockafall/2 headphones.png
+    image_path: /assets/images/visual-art/rockafall/2 headphones.png
+    alt: "Rock wearing headphones sticker in 90s comic style"
 ---
-![alt text](https://github.com/assets/images/visual-art/rockafall/1 comet.png?raw=true)
-![alt text](https://github.com/assets/images/visual-art/rockafall/2 headphones.png?raw=true)
 
 Please work
