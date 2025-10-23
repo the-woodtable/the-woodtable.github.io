@@ -3,8 +3,8 @@ main:
     url: /builds/
   - title: "Visual Art"
     url: /visual_art/
-  - title: "CAD & 3D Modelling"
-    url: /3d_modelling/
+  - title: "3D Design"
+    url: /3d_design/
   - title: "Programming"
     url: /programming
   - title: "Video Editing"
