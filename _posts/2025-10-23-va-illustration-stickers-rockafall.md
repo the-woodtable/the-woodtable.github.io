@@ -1,6 +1,6 @@
 ---
 title: "Stickers Design - Rockafall Concert (SUTD Bands)"
-date: 2019-04-18T15:34:30-04:00
+date: 2025-10-23 00:00:00 +0800
 categories:
   - blog
 tags:
