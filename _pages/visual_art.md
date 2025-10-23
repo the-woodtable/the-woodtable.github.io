@@ -5,3 +5,4 @@ collection: visual_art
 permalink: /visual_art/
 entries_layout: grid
 ---
+I draw, paint, and animate.
