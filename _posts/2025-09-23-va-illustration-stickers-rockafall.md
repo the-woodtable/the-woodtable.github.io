@@ -1,6 +1,6 @@
 ---
 title: "Stickers Design for Rockafall Concert"
-date: 2025-10-23 00:00:00 +0800
+date: 2025-09-23 00:00:00 +0800
 categories:
   - blog
 tags:
@@ -34,7 +34,9 @@ gallery:
     alt: "Rockafall logo sticker in 80s comic style"
 ---
 
-Eight sticker designs as merchandise for a SUTD Bands **concert themed after an incoming astroid in 80s comic strip style**.
+Eight sticker designs as merchandise for a SUTD Bands concert themed after an **incoming astroid** in **80s comic strip style**.
+
+add big image of actual merch
 
 {% include gallery caption="" %}
 
