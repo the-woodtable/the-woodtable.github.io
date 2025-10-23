@@ -84,6 +84,9 @@ collections:
   visual_art:
     output: true
     permalink: /:collection/:path/
+  3d_design:
+    output: true
+    permalink: /:collection/:path/
     
 defaults:
   # _posts
@@ -101,6 +104,14 @@ defaults:
   - scope:
       path: ""
       type: visual_art
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _3d_design
+  - scope:
+      path: ""
+      type: 3d_design
     values:
       layout: single
       author_profile: false
