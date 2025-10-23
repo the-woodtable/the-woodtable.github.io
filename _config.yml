@@ -99,8 +99,8 @@ defaults:
       related: true
   # _visual_art
   - scope:
-      path: "_visual_art"
-      type: portfolio
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: false
