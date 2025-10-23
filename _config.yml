@@ -100,7 +100,7 @@ defaults:
   # _visual_art
   - scope:
       path: ""
-      type: posts
+      type: visual_art
     values:
       layout: single
       author_profile: false
