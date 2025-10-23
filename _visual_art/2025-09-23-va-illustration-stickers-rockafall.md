@@ -1,8 +1,8 @@
 ---
 title: "Stickers Design for Rockafall Concert"
 date: 2025-09-23 00:00:00 +0800
-categories:
-  - blog
+layout: single
+collection: visual_art
 tags:
   - Merch Design
   - Illustration
