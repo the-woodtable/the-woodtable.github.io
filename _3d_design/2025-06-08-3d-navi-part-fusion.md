@@ -33,6 +33,7 @@ driveId: 1aGCijwqnB9G5P0dRsY0RT-OlfZ_iZDvI/preview
 
 
 
+
 {% include gallery caption="" %}
 \[Left] Printed component     
 \[Middle] Original part (top) vs New part (bottom)    
@@ -44,3 +45,4 @@ My friend borrowed a navigation robot from a professor, but the 3D print that he
 {% include googleDrivePlayer.html id=page.driveId %}
 
 Component fitted onto the robot
+
