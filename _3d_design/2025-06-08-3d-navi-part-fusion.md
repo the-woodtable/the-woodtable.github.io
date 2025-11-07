@@ -20,6 +20,7 @@ gallery:
     alt: "Part assembled with pre-existing components"
 
 
+
 gallery2:
   - url: /assets/images/3d_design/navigation_robot_part_repair/assembly1.jpg
     image_path: /assets/images/3d_design/navigation_robot_part_repair/assembly1.jpg
@@ -45,4 +46,5 @@ My friend borrowed a navigation robot from a professor, but the 3D print that he
 {% include googleDrivePlayer.html id=page.driveId %}
 
 Component fitted onto the robot
+
 
