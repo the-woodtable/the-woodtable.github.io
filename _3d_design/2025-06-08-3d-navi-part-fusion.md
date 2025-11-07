@@ -29,7 +29,8 @@ gallery2:
     alt: "fitted onto robot"
 
 driveId: 1aGCijwqnB9G5P0dRsY0RT-OlfZ_iZDvI/preview
----
+--- 
+
 
 
 {% include gallery caption="" %}
@@ -41,4 +42,5 @@ My friend borrowed a navigation robot from a professor, but the 3D print that he
 
 {% include gallery id="gallery2" caption="" %}
 {% include googleDrivePlayer.html id=page.driveId %}
+
 Component fitted onto the robot
